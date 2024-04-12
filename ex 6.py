@@ -1,4 +1,4 @@
-print("\n")
+print("\nPrograma que identifica números de fora e dentro do intervalo [10,20]\n")
 dentro = 0
 fora = 0
 for i in range(10):

@@ -1,4 +1,4 @@
-print("\n")
+print("\nPrograma que calcula a média das idades inseridas\n")
 qtdIdade = int(input("\nDigite a quantidade de idades para calcular a média: "))
 somaIdade = 0 
 contador = 0

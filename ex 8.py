@@ -1,4 +1,5 @@
 x = 0
+print("\nPrograma que calcula os divisores do número inserido")
 while x < 1:
     num = int(input("\nDigite Um Numero Positivo: "))
     if num > 0:
